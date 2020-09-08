@@ -1,3 +1,10 @@
+# Note for making it work by limijd
+
+* it only works with Python3.6
+* only tensorflow-1.14 can work
+* keras==2.24
+
+
 # **Tacotron-2-Chinese 中文语音合成**
 
 ## **预训练模型下载**
