@@ -2,7 +2,9 @@
 
 * it only works with Python3.6
 * tensorflow==1.10
+* numpy==1.14.5
 * keras==2.24
+* numba==0.47
 
 
 # **Tacotron-2-Chinese 中文语音合成**
