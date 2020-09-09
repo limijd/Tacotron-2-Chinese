@@ -6,6 +6,13 @@
 * keras==2.24
 * numba==0.47
 
+## Command line:
+
+```
+python synthesize.py --tacotron_name Tacotron-2 --model='Tacotron' --text_list=t.txt
+```
+
+
 
 # **Tacotron-2-Chinese 中文语音合成**
 
